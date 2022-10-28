@@ -29,10 +29,10 @@ Clone this repository
 
 ```shell
 # SSH
-$ git clone git@github.com:Jonas56/scs-spring-react.git
+$ git clone git@github.com:mehdiaitlhouss/SCS.git
 
 # HHTPS
-$ git clone https://github.com/Jonas56/scs-spring-react.git
+$ git clone https://github.com/mehdiaitlhouss/SCS.git
 ```
 
 ## Running the app :dart:
